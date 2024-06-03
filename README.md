@@ -17,7 +17,7 @@ Em resumo, o Projeto Integrador busca promover a conscientização sobre o comba
 - [@.danielgalvao.](https://github.com/MagalDevs)
 - [@caioh](https://github.com/Caioh77)
 - [@rafelsturion](https://github.com/rafaelsturion)
-- [@mreduzino]()
+- [@mreduzino](https://github.com/mreduzino)
 - [@nathan.ferracini](https://github.com/Nathan-Ferracini-Batista)
 
 ## Funcionalidades
